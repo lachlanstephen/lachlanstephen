@@ -1,3 +1,3 @@
-![Banner](./assets/img/github-banner-cat.gif)
+![Banner](./assets/img/github-banner-engineer.gif)
 
-All credit to <a href="https://portaly.cc/pixeljeff" rel="noopener noreferrer nofollow" target="_blank">Pixel Jeff</a> for the original <a href="https://www.behance.net/gallery/103154127/SUDIO" rel="noopener noreferrer nofollow" target="_blank">banner</a>!
+All credit to <a href="https://portaly.cc/pixeljeff" target="_blank" rel="noopener noreferrer nofollow">Pixel Jeff</a> for the <a href="https://www.behance.net/gallery/103154127/SUDIO" target="_blank" rel="noopener noreferrer nofollow">banner</a>!
