@@ -1,1 +1,1 @@
-This is a test :)
+![Banner](./assets/img/github-banner-cat.gif)
