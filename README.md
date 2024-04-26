@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm Lachlan Stephen, a current student at (42 Adelaide)[https://www.42adel.org.au/], and an aspiring **Software Engineer**. I've had experience as a **Front End Web Developer** for about 4 years, and am currently freelancing on the side of my studies for a couple of clients.
+I'm Lachlan Stephen, a current student at [42 Adelaide](https://www.42adel.org.au/), and an aspiring **Software Engineer**. I've had experience as a **Front End Web Developer** for about 4 years, and am currently freelancing on the side of my studies for a couple of clients.
 
 I love coding, and find great pleasure when you have solid functionality with beautiful design.
 
-I'm inspired by the developers at (Active Theory)[https://activetheory.net/], I think the work they do is absolutely incredible, and it would be a dream to work there! Check out their website and portfolio, you won't be disappointed.
+I'm inspired by the developers at [Active Theory](https://activetheory.net/), I think the work they do is absolutely incredible, and it would be a dream to work there! Check out their website and portfolio, you won't be disappointed.
 
 _Currently working on_: Organising my resume and professional profiles, and Philosophers at 42
 
