@@ -4,9 +4,11 @@
 
 I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.org.au/), and an aspiring **Software Engineer**. I've had experience as a **Front End Web Developer** for about 3 years, and am currently freelancing on the side of my studies for a couple of clients.
 
-- :hammer_and_wrench: I'm currently working on organising my professional profiles and Philosophers (42 Project)
+- :man_technologist: I worked at a web devlopment firm for over a year, starting out doing SEO and transitioning into development using various CMS (Wordpress, Shopify, Joomla, Squarespace) for clients as well as helping build a shopify theme for the firm.
 
-- :book: I'm currently learning about multi-threaded programs in C and 3D animations (WebGL, three.js)
+- :hammer_and_wrench: I'm currently working on organising my professional profiles and **Philosophers** (42 Project)
+
+- :book: I'm currently learning about **multi-threaded programs** and **3D animations** (WebGL, three.js)
 
 - :camera: My hobbies and interests include photography, cooking, sports, puzzles and working on my car 
 
@@ -60,7 +62,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 <p align="center">
 <a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="40px"></a>&ensp;
 <a href="https://linkedin.com/in/lachlanstephen" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lachlan Stephen LinkedIn" align="center" height="30"></a>&ensp;
-<a href="https://www.youtube.com/@lachlan1806" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="40"></a>
+<a href="https://www.youtube.com/@lachlan1806" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="38"></a>
 </p>
 
 ##
