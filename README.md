@@ -16,9 +16,15 @@ I'm looking to collaborate on anything! I want to be challenged!
 
 Ask me about fractals, football (soccer), life as a 42Adelaide Student, or anything in-between!
 
-<h3><a href="https://github.com/stars/lachlanstephen/lists/42-projects" rel="noopener nofollow noreferrer">My 42 Projects</a></h3>
+:camera: My hobbies
 
-## :trophy: Achievements
+## [My 42 Projects](https://github.com/stars/lachlanstephen/lists/42-projects)
+
+### [fract-ol](https://github.com/lachlanstephen/fract-ol_42)
+
+### [LIBFT](https://github.com/lachlanstephen/LIBFT_42)
+
+## :trophy: Achievements :trophy:
 
 :herb: Honourable Mention: GovHack 2023 - Amp up SA: Forecasting Electric Transport for Grid Resilience
 
