@@ -12,7 +12,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 
 - :camera: My hobbies and interests include photography, cooking, sports, puzzles and working on my car 
 
-- Ask me about fractals, CSS tricks, football, life as a 42Adelaide Student, and anything in-between!
+- :speech_balloon: Ask me about fractals, CSS tricks, football, life as a 42Adelaide Student, and anything in-between!
 
 :bulb: Inspired by: [Active Theory](https://activetheory.net/) <img src="./assets/img/at-icon.png" width="16px" align="center">
 - They make awe-inspiring designs come to life with code, and test the boundary for what's possible. Check out their website and portfolio, you won't be disappointed.
@@ -57,7 +57,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 - My Project: [Energy4me](https://2023.hackerspace.govhack.org/projects/energy4me)
 - The idea of an application that pulls data from the Australian National Energy Market, to better educate users on the most renewable times to use electricity.
 
-## :speech_balloon: Contact me
+## :email: Contact me
 
 <p align="center">
 <a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="36px"></a>&ensp;
