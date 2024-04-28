@@ -60,7 +60,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 ## :speech_balloon: Find me
 
 <p align="center">
-<a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="40px"></a>&ensp;
+<a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="36px"></a>&ensp;
 <a href="https://linkedin.com/in/lachlanstephen" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lachlan Stephen LinkedIn" align="center" height="30"></a>&ensp;
 <a href="https://www.youtube.com/@lachlan1806" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="38"></a>
 </p>
