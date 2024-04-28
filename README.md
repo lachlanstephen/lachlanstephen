@@ -15,7 +15,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 :bulb: Inspired by: [Active Theory](https://activetheory.net/) <img src="./assets/img/at-icon.png" width="16px" align="center">
 - They make awe-inspiring designs come to life with code, and test the boundary for what's possible. Check out their website and portfolio, you won't be disappointed.
 
-## :stars: Languages and Tools
+## :sparkles: Languages and Tools
 
 <p align="center">
 <a href="https://www.cprogramming.com/" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
@@ -58,8 +58,9 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 ## :speech_balloon: Find me
 
 <p align="center">
-<a href="https://linkedin.com/in/lachlanstephen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lachlan Stephen LinkedIn" align="center" height="30"></a>&ensp;
-<a href="https://www.youtube.com/@lachlan1806""><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="40"></a>
+<a href="https://linkedin.com/in/lachlanstephen" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lachlan Stephen LinkedIn" align="center" height="30"></a>&ensp;
+<a href="https://www.youtube.com/@lachlan1806" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="40"></a>
+<a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" width="40px"></a>
 </p>
 
 ##
