@@ -6,7 +6,7 @@ I'm Lachlan Stephen, a current student at [42 Adelaide](https://www.42adel.org.a
 
 I love coding, and find great pleasure when you have solid functionality with beautiful design.
 
-:bulb: Inspired by: [Active Theory](https://activetheory.net/) <img src="./assets/img/active-theory.png" width="16px" align="justify">
+:bulb: Inspired by: [Active Theory](https://activetheory.net/) <img src="./assets/img/at-icon.png" width="16px" align="center">
 - They make awe-inspiring designs come to life with code, and test the boundary for what's possible. Check out their website and portfolio, you won't be disappointed.
 
 _Currently working on_: Organising my professional profiles
