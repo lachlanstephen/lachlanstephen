@@ -19,13 +19,13 @@ Ask me about fractals, football (soccer), life as a 42Adelaide Student, or anyth
 
 I love travel, food
 
-## [My 42 Projects](https://github.com/stars/lachlanstephen/lists/42-projects)
+## <img src="./assets/img/42.png" width="20px" align="center">[My 42 Projects](https://github.com/stars/lachlanstephen/lists/42-projects)
 
-### [fract-ol](https://github.com/lachlanstephen/fract-ol_42)
+### :cyclone: [fract-ol](https://github.com/lachlanstephen/fract-ol_42)
 
 - A project about creating graphically beautiful fractals. It delved into the notion of complex numbers, optimisation in graphics, and event handling.
 
-### [LIBFT](https://github.com/lachlanstephen/LIBFT_42)
+### :books: [LIBFT](https://github.com/lachlanstephen/LIBFT_42)
 
 - A C library containing general purpose functions for future projects.
 
