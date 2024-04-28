@@ -57,7 +57,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 - My Project: [Energy4me](https://2023.hackerspace.govhack.org/projects/energy4me)
 - The idea of an application that pulls data from the Australian National Energy Market, to better educate users on the most renewable times to use electricity.
 
-## :speech_balloon: Find me
+## :speech_balloon: Contact me
 
 <p align="center">
 <a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="36px"></a>&ensp;
