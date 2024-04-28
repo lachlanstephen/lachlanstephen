@@ -1,22 +1,22 @@
 ![Banner](./assets/img/github-banner-engineer.gif)
 
-## :rocket: About Me :wave:
+## :rocket: About Me :laptop: :construction: :mobile_phone:
 
 I'm Lachlan Stephen, a current student at [42 Adelaide](https://www.42adel.org.au/), and an aspiring **Software Engineer**. I've had experience as a **Front End Web Developer** for about 4 years, and am currently freelancing on the side of my studies for a couple of clients.
 
 I love coding, and find great pleasure when you have solid functionality with beautiful design.
 
-I'm inspired by the developers at [Active Theory](https://activetheory.net/), I think the work they do is absolutely incredible, and it would be a dream to work there! Check out their website and portfolio, you won't be disappointed.
+:bulb: Inspired by: [Active Theory](https://activetheory.net/)
+- They make awe-inspiring designs come to life with code, and test the boundary for what's possible.
+- Check out their website and portfolio, you won't be disappointed.
 
 _Currently working on_: Organising my professional profiles
 
 _Currently learning about_: Multi-threaded programs in C, and three.js web development (active theory inspired)
 
-I'm looking to collaborate on anything! I want to be challenged!
-
 Ask me about fractals, football (soccer), life as a 42Adelaide Student, or anything in-between!
 
-:camera: My hobbies
+:sunrise_over_mountains: My hobbies
 
 ## [My 42 Projects](https://github.com/stars/lachlanstephen/lists/42-projects)
 
