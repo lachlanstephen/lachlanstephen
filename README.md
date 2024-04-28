@@ -4,13 +4,13 @@
 
 I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.org.au/), and an aspiring **Software Engineer**. I've had experience as a **Front End Web Developer** for about 3 years, and am currently freelancing on the side of my studies for a couple of clients.
 
-- :hammer_and_wrench: Currently working on organising my professional profiles and Philosophers (42 Project)
+- :hammer_and_wrench: I'm currently working on organising my professional profiles and Philosophers (42 Project)
 
-- :book: Currently learning about multi-threaded programs in C and 3D animations (WebGL, three.js)
+- :book: I'm currently learning about multi-threaded programs in C and 3D animations (WebGL, three.js)
 
 - :camera: My hobbies and interests include photography, cooking, sports, puzzles and working on my car 
 
-- Ask me about fractals, football, life as a 42Adelaide Student, and anything in-between!
+- Ask me about fractals, CSS tricks, football, life as a 42Adelaide Student, and anything in-between!
 
 :bulb: Inspired by: [Active Theory](https://activetheory.net/) <img src="./assets/img/at-icon.png" width="16px" align="center">
 - They make awe-inspiring designs come to life with code, and test the boundary for what's possible. Check out their website and portfolio, you won't be disappointed.
@@ -58,9 +58,9 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 ## :speech_balloon: Find me
 
 <p align="center">
+<a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" align="top" width="40px"></a>&ensp;
 <a href="https://linkedin.com/in/lachlanstephen" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lachlan Stephen LinkedIn" align="center" height="30"></a>&ensp;
 <a href="https://www.youtube.com/@lachlan1806" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lachlan1806" align="top" width="40"></a>
-<a href="mailto:lachlanstephen@outlook.com?subject=Github Enquiry" rel="noopener noreferrer nofollow"><img src="./assets/img/mail.png" width="40px"></a>
 </p>
 
 ##
