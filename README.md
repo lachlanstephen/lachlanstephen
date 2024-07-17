@@ -6,9 +6,9 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 
 - :man_technologist: I worked at a web devlopment firm for over a year, starting out doing SEO and transitioning into development using various CMS (Wordpress, Shopify, Joomla, Squarespace) for clients as well as helping build a shopify theme for the firm.
 
-- :hammer_and_wrench: I'm currently working on organising my professional profiles and **Philosophers** (42 Project)
+- :hammer_and_wrench: I'm currently working on **CatTheQuest CTF** and **Philosophers** (42 Project)
 
-- :book: I'm currently learning about **multi-threaded programs** and **3D animations** (WebGL, three.js)
+- :book: I'm currently learning about **multi-threaded programs** and **web exploitations**
 
 - :camera: My hobbies and interests include photography, cooking, sports, puzzles and working on my car 
 
@@ -34,6 +34,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 <a href="https://www.python.org" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
 <a href="https://reactnative.dev/" rel="noopener noreferrer nofollow"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"></a>
 <a href="https://tailwindcss.com/" rel="noopener noreferrer nofollow"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"></a>
+<a href="https://aws.amazon.com/" rel="noopener noreferrer nofollow"><img src="assets/img/aws-logo.png" alt="Amazon Web Services" width="40" height="40"></a>
 </p>
 
 ## <img src="./assets/img/42.png" width="28px" align="center">&ensp;[My 42 Projects](https://github.com/stars/lachlanstephen/lists/42-projects)
@@ -56,6 +57,17 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 
 - My Project: [Energy4me](https://2023.hackerspace.govhack.org/projects/energy4me)
 - The idea of an application that pulls data from the Australian National Energy Market, to better educate users on the most renewable times to use electricity.
+
+:desktop_computer: **4th Place: Cyber Battle Australia 2024**
+
+- Cybersecurity Capture the Flag event including a qualifying and finals, designed to test our web exploitation, shell skills and cryptography.
+- 4th place out of over 250 competitors
+
+:partly_sunny: **1st Place: AWS Cloud Computing Bootcamp** - Improving Education Outcomes for Regional Students
+
+- Our Project: [EDUC(aws)](https://docs.google.com/presentation/d/1agjHC9dvnEsY5gG7iDB5uSAanZzaUkkBIu78GnnikDU/edit?usp=sharing)
+- A low bandwidth, all in one education platform for students, teachers and parents providing a gamified learning platform for students, and a visualisation tool for teachers to see student's progression.
+- Awarded all three available Amazon Leadership Principes – Customer Obsession, Invent & Simplify, Think Big
 
 ## :email: Contact me
 
