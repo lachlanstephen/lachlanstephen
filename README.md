@@ -6,7 +6,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 
 - :man_technologist: I worked at a web devlopment firm for over a year, starting out doing SEO and transitioning into development using various CMS (Wordpress, Shopify, Joomla, Squarespace) for clients as well as helping build a shopify theme for the firm.
 
-- :hammer_and_wrench: I'm currently working on **CatTheQuest CTF** and **Philosophers** (42 Project)
+- :hammer_and_wrench: I'm currently working on **Minishell** (42 Project) with [**Romain Domange**](https://github.com/blejjkbinks) and **Philosophers** (42 Project)
 
 - :book: I'm currently learning about **multi-threaded programs** and **web exploitations**
 
@@ -67,7 +67,7 @@ I'm Lachlan Stephen, a current student at [**42 Adelaide**](https://www.42adel.o
 
 - Our Project: [EDUC(aws)](https://docs.google.com/presentation/d/1agjHC9dvnEsY5gG7iDB5uSAanZzaUkkBIu78GnnikDU/edit?usp=sharing)
 - A low bandwidth, all in one education platform for students, teachers and parents providing a gamified learning platform for students, and a visualisation tool for teachers to see student's progression.
-- Awarded all three available Amazon Leadership Principes – Customer Obsession, Invent & Simplify, Think Big
+- Awarded all three available Amazon Leadership Principles – Customer Obsession, Invent & Simplify, Think Big
 
 ## :email: Contact me
 
